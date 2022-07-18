@@ -1,0 +1,13 @@
+body{
+    background-color: #666;
+}
+#clock{
+    font-size: 150px;
+    width: 1000px;
+    margin: 200px;
+    text-align: center;
+    border: 5px solid;
+    border-color: cornflowerblue;
+    border-radius: 20px;
+    font-family: 'Radio Canada', sans-serif;
+}
